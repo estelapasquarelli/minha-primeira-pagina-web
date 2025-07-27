@@ -7,6 +7,8 @@ O curso abrangeu fundamentos da programação em JavaScript, incluindo estrutura
 ## 🌐 Site
 - https://estelapasquarelli.github.io/minha-primeira-pagina-web/
 
+## Certificação
+- https://euprogramo.thinkific.com/certificates/zgbem4glko
 
 ## 🛠️ Tecnologias e Ferramentas
 
