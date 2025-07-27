@@ -5,7 +5,7 @@ Este repositório contém meu primeiro site feito na formação no curso **Front
 O curso abrangeu fundamentos da programação em JavaScript, incluindo estrutura em HTML e CSS.
 
 ## 🌐 Site
-- (https://estelapasquarelli.github.io/minha-primeira-pagina-web/)
+- https://estelapasquarelli.github.io/minha-primeira-pagina-web/
 
 
 ## 🛠️ Tecnologias e Ferramentas
